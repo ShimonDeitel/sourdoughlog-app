@@ -1,0 +1,42 @@
+{
+  "identifier": "sourdoughlog",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500001",
+      "localizations": [],
+      "name": "Sourdough Log Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "sourdoughlog_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlimited history and a bake-outcome photo journal",
+              "displayName": "Sourdough Log Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "sourdoughlog_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Sourdough Log Pro Monthly",
+          "subscriptionGroupID": "21500001",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
